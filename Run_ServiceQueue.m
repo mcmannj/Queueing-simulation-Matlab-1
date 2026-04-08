@@ -1,4 +1,4 @@
-%[text] # Run samples of the ServiceQueue simulation John McMann
+%[text] # Run samples of the ServiceQueue simulation John McMann Test
 %[text] Collect statistics and plot histograms along the way.
 %%
 %[text] ## Set up
